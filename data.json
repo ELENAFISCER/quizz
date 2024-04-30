@@ -1,0 +1,235 @@
+{ "title":"Datos históricos de Aranjuez",
+    "id_test":"",
+    "description": "Conoce fechas y datos sobre la historia de Aranjuez y sus lugares",
+    "author": "Elena",
+    "img_feature":{
+        "url": "./img/.jpg",
+        "alt":""
+    },
+    "questions":[{
+        "id": 1,
+        "question": "¿En qué estación solía alojarse Santiago Rusiñol en Aranjuez?"
+        ,
+        "answer":{
+            "a": "Primavera",
+            "b": "Otoño",
+            "c": "Invierno",
+            "d": "Verano"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img": {
+            "url":"img/santiagorusiñol.jpg",
+            "alt": "Santiago Rusiñol",
+            "desc": ""
+        },
+        "hint": "Otoño"
+    },
+    {
+        "id": 2,
+        "question": "¿En qué año se construyó la iglesia de San Antonio de Aranjuez?"
+        ,
+        "answer": {
+            "a": "1752",
+            "b": "1500",
+            "c": "1430",
+            "d": "1860"
+    },
+        "results": {
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+    },
+        "img": {
+            "url": "img/SanAntonio.jpg",
+            "alt": "",
+            "desc": ""
+    },
+        "hint": "1752",
+        "curiosity": ""
+    },
+    {
+        "id": 3,
+        "question": "¿Quién fue el arquitecto de la iglesia y Convento de San Pascual?",
+        "answer":{
+            "a": "Manuel Serrano",
+            "b": "Francesco Sabatini",
+            "c": "Rodrigo Sanchez",
+            "d": "Joaquín Sanchez"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img": {
+            "url":"img/sanpascual.jpg",
+            "alt": "",
+            "desc": ""
+        },
+        "hint": "Francesco Sabatini"
+    },
+    {"id": 4,
+    "question": "¿Que encontramos en el interior del Hostal Castilla?"
+    ,
+    "answer":{
+        "a": "un museo",
+        "b": "una corrala",
+        "c": "una sala",
+        "d": "esculturas"
+    },
+    "results":{
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img": {
+        "url":"img/hostal-castilla.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "una corrala"
+},
+{"id": 5,
+    "question": "¿Quién vivía en el Palacio Medinaceli de Aranjuez?"
+    ,
+    "answer":{
+        "a": "Isabel de Farnesio",
+        "b": "Los Duques de Medinaceli",
+        "c": "Alfonso XII",
+        "d": "Rey Carlos IV"
+    },
+    "results":{
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img": {
+        "url":"img/Medinaceli.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "Duques de Medinacelli"
+},
+{"id": 6,
+    "question": "¿Qué famoso evento cultural se celebra en la Casa de Santiago Rusiñol cada año en honor a su homenajeado??"
+    ,
+    "answer":{
+        "a": "Conciertos",
+        "b": "Concurso pintura al aire libre",
+        "c": "Eventos deportivos",
+        "d": "Subasta de cuadros"
+    },
+    "results":{
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img": {
+        "url":"img/santiagorusiñol.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "Concurso de pintura al aire libre",
+    "curiosity": ""
+},
+{"id": 7,
+    "question": "¿Qué función cumplía el edificio de Pavía?"
+    ,
+    "answer":{
+        "a": "Museo Renacentista",
+        "b": "Cuartel de la Guardia Civil ",
+        "c": "Sala de exposiciones",
+        "d": "Teatro"
+    },
+    "results":{
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img": {
+        "url":"img/pavia-1.jpeg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "Cuartel de la Guardia Civil"
+},
+{"id": 8,
+    "question": "¿Que función tiene actualmente el antiguo Hospital de San Carlos?"
+    ,
+    "answer":{
+        "a": "Ayuntamiento",
+        "b": "Universidad Rey Juan Carlos",
+        "c": "Centro Comercial",
+        "d": "Teatro"
+    },
+    "results":{
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img": {
+        "url":"img/SanCarlos.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "Universidad Rey Juan Carlos"
+
+},
+{"id": 9,
+    "question": "¿Qué jardín se sitúa cerca de la Plaza de la MariBlanca?"
+    ,
+    "answer":{
+        "a": "Jardín del Príncipe",
+        "b": "Jardín de Isabel II",
+        "c": "Jardín del Parterre",
+        "d": "Jardín del Rey"
+    },
+    "results":{
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img": {
+        "url":"img/Aranjuez-Jardin-de-Isabel-II.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "Jardín de Isabel II"
+},
+{"id": 10,
+    "question": "¿De qué año es el Mercado de Abastos?"
+    ,
+    "answer":{
+        "a": "1892",
+        "b": "1894",
+        "c": "1800",
+        "d": "1850"
+    },
+    "results":{
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img": {
+        "url":"img/mercadoabastos.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "1894"
+}
+]
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
